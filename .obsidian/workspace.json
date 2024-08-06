@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "07ec09ecca996084",
+        "id": "9e693e665e9c6494",
         "type": "tabs",
         "children": [
           {
-            "id": "c55acc53c9c12d87",
+            "id": "d60292b2d42086cd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "0. A L X resources/git and github/Git command.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "0. A L X resources/git and github/Git command.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "0. A L X resources/git and github/Git command.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "0. A L X resources/git and github/Git command.md"
+              }
             }
           }
         ]
@@ -138,6 +146,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c55acc53c9c12d87",
-  "lastOpenFiles": []
+  "active": "d60292b2d42086cd",
+  "lastOpenFiles": [
+    "0. A L X resources/git and github/Git and Github.md",
+    "0. A L X resources/git and github/Git command.md",
+    "4. SQL Storage/No - SQL/No - SQL.md",
+    "CSS/text.md",
+    "Project/Bio Morocco/data.md",
+    "Project/Bio Morocco",
+    "Project",
+    "Docker/Docker compose/3. config.md",
+    "Docker/Docker compose/2. command line.md",
+    "Docker/Docker compose/1. What is a Docker compose.md",
+    "Docker/Docker/2. Command line docker.md",
+    "Docker/Docker/3. Dockerfile.md",
+    "Docker/Docker/1. What is docker.md",
+    "Docker/Docker compose",
+    "Docker/Docker",
+    "Docker",
+    "100. Configuration/Prettier/1. new config.md",
+    "100. Configuration/Prettier/0. old config.md",
+    "100. Configuration/Prettier",
+    "100. Configuration",
+    "10. Front End/Framework/2. React/0. Introduction.md",
+    "10. Front End/Framework/1. Webpack/Pasted image 20240601114635.png",
+    "10. Front End/Framework/1. Webpack/0. Webpack.md",
+    "10. Front End/Framework/2. React",
+    "10. Front End/Framework/1. Webpack",
+    "10. Front End/Framework/0. Frame Works.md",
+    "10. Front End/2. CSS/0. Basics.md",
+    "10. Front End/1. HTML/0. Start html.md",
+    "10. Front End/Framework",
+    "9. Redis/Screenshot 2024-05-02 212844.png",
+    "9. Redis/1. Commands.md",
+    "9. Redis/0. Redis (data structure server).md",
+    "7. JavaScript/TypeScript/4. Functions.md",
+    "7. JavaScript/TypeScript/2. Classes, Objects.md",
+    "7. JavaScript/TypeScript/1. TS Arrays.md",
+    "7. JavaScript/TypeScript/0. TS Introduction.md",
+    "7. JavaScript/NodeJs/what is npx.md",
+    "7. JavaScript/NodeJs/What is NPM.md"
+  ]
 }

@@ -1,1 +1,6 @@
-{}
+{
+  "focusNewTab": true,
+  "readableLineLength": false,
+  "strictLineBreaks": false,
+  "showLineNumber": true
+}
