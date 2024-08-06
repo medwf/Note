@@ -4,13 +4,13 @@
 # include file css to html
 - use tag link.
 ```HTML
-	<<-- you can add it in head tag -->>
-	<link href="relative/path/to/file.css" rel="stylesheet" />
+	<!-- you can add it in head tag -->>
+	<link rel="stylesheet" href="relative/path/to/file.css" />
 ```
 
 # Anatomy of a CSS ruleset.
 - Let's dissect the CSS code for red paragraph text to understand how it works:
-- ![[Pasted image 20240601114635.png]]
+![[Pasted image 20240601114635.png]]
 - Note the other important parts of the syntax:
 	- Apart from the selector, each ruleset must be wrapped in curly braces. (`{}`)
 	- Within each declaration, you must use a colon (`:`) to separate the property from its value or values.
@@ -39,3 +39,57 @@ h1 {
 | Pseudo-class selector                                      | The specified element(s), but only when in the specified state. (For example, when a cursor hovers over a link.) | `a:hover`  <br>selects `<a>`, but only when the mouse pointer is hovering over the link. |
 
 There are many more selectors to discover. To learn more, see the MDN [Selectors guide](https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Selectors).
+
+# Descendent and direct child
+## Descendent:
+- Selector multi element for example:
+```HTML
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>
+    /* select all span in div change color to read*/
+     div span {
+	     color: red;
+     }
+
+    </ style>
+    <title>ID in css</title>
+  </head>
+  <body>
+    <div>
+      <h2>1 <span>00</ span></h2>
+      <h1>2 <span>01</ span></h1>
+    </div>
+  </body>
+</html>
+```
+
+## Direct child:
+- Selector multi element for example:
+```HTML
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <style>
+    /* select only closer span in div change color to read*/
+     div > span {
+	     color: red;
+     }
+
+    </ style>
+    <title>ID in css</title>
+  </head>
+  <body>
+    <div>
+      <h2>1 <span>00</ span></h2>
+      <h1>2 <span>01</ span></h1>
+      <span>01</ span>
+    </div>
+  </body>
+</html>
+```

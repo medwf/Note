@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "9e693e665e9c6494",
+        "id": "25fd48a572c9b4f6",
         "type": "tabs",
         "children": [
           {
-            "id": "d60292b2d42086cd",
+            "id": "34fc06d72007e3a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0. A L X resources/git and github/Git command.md",
+                "file": "0x09-FrondEnd/1-CSS/1-box_model.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0. A L X resources/git and github/Git command.md",
+                "file": "0x09-FrondEnd/1-CSS/1-box_model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0. A L X resources/git and github/Git command.md",
+                "file": "0x09-FrondEnd/1-CSS/1-box_model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0. A L X resources/git and github/Git command.md"
+                "file": "0x09-FrondEnd/1-CSS/1-box_model.md"
               }
             }
           }
@@ -146,45 +146,47 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d60292b2d42086cd",
+  "active": "34fc06d72007e3a8",
   "lastOpenFiles": [
-    "git_auto_push.bat.txt",
-    "New Text Document.txt",
-    "0. A L X resources/git and github/Git and Github.md",
-    "0. A L X resources/git and github/Git command.md",
-    "4. SQL Storage/No - SQL/No - SQL.md",
-    "CSS/text.md",
-    "Project/Bio Morocco/data.md",
-    "Project/Bio Morocco",
-    "Project",
-    "Docker/Docker compose/3. config.md",
-    "Docker/Docker compose/2. command line.md",
-    "Docker/Docker compose/1. What is a Docker compose.md",
-    "Docker/Docker/2. Command line docker.md",
-    "Docker/Docker/3. Dockerfile.md",
-    "Docker/Docker/1. What is docker.md",
-    "Docker/Docker compose",
-    "Docker/Docker",
-    "Docker",
+    "0x09-FrondEnd/1-CSS/Screenshot 2024-08-06 193725.png",
+    "0x09-FrondEnd/1-CSS/box-model-html-css.jpg",
+    "0x09-FrondEnd/1-CSS/0-Introduction.md",
+    "0x09-FrondEnd/1-CSS/1-box_model.md",
+    "0x09-FrondEnd/1-CSS/1-Text style.md",
+    "0x09-FrondEnd/2-Framework/0. Frame Works.md",
+    "0x09-FrondEnd/0-HTML/0. Start html.md",
+    "Untitled.canvas",
+    "2024-08-06.md",
+    "3.md",
+    "soft skills/owning your learning.md",
+    "soft skills/Introduction to mindsets.md",
+    "0x00-Text-editor/Vim.md",
+    "0x00-Text-editor/command Vim.md",
+    "0x00-Text-editor/Emacs.md",
+    "0x09-FrondEnd/2-Framework/1. Webpack/0. Webpack.md",
+    "0x09-FrondEnd/2-Framework/1. Webpack/Pasted image 20240601114635.png",
+    "0x10-Docker_docker-compose/Docker/1. What is docker.md",
     "100. Configuration/Prettier/1. new config.md",
     "100. Configuration/Prettier/0. old config.md",
+    "0x06-Redis/0. Redis (data structure server).md",
+    "0x06-Redis/Screenshot 2024-05-02 212844.png",
+    "0x06-Redis/1. Commands.md",
+    "Project/Bio Morocco/data.md",
+    "0. A L X resources/The room fellowship/the room fellowship.md",
+    "0. A L X resources/vagrant/vagrant.md",
+    "0. A L X resources/onboarding/Your Learning Community.md",
+    "0. A L X resources/onboarding/deep dive into the intranet.md",
+    "0. A L X resources/algorithm/flowcharts.md",
+    "0. A L X resources/algorithm/White boarding.md",
+    "git_auto_push.bat.txt",
+    "New Text Document.txt",
+    "Project/Bio Morocco",
+    "Project",
+    "0x10-Docker_docker-compose/Docker compose",
+    "0x10-Docker_docker-compose/Docker",
+    "0x10-Docker_docker-compose",
     "100. Configuration/Prettier",
     "100. Configuration",
-    "10. Front End/Framework/2. React/0. Introduction.md",
-    "10. Front End/Framework/1. Webpack/Pasted image 20240601114635.png",
-    "10. Front End/Framework/1. Webpack/0. Webpack.md",
-    "10. Front End/Framework/2. React",
-    "10. Front End/Framework/1. Webpack",
-    "10. Front End/Framework/0. Frame Works.md",
-    "10. Front End/2. CSS/0. Basics.md",
-    "10. Front End/1. HTML/0. Start html.md",
-    "9. Redis/Screenshot 2024-05-02 212844.png",
-    "9. Redis/1. Commands.md",
-    "9. Redis/0. Redis (data structure server).md",
-    "7. JavaScript/TypeScript/4. Functions.md",
-    "7. JavaScript/TypeScript/2. Classes, Objects.md",
-    "7. JavaScript/TypeScript/1. TS Arrays.md",
-    "7. JavaScript/TypeScript/0. TS Introduction.md",
-    "7. JavaScript/NodeJs/what is npx.md"
+    "0x09-FrondEnd/2-Framework/2. React"
   ]
 }
