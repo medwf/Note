@@ -148,6 +148,8 @@
   },
   "active": "d60292b2d42086cd",
   "lastOpenFiles": [
+    "git_auto_push.bat.txt",
+    "New Text Document.txt",
     "0. A L X resources/git and github/Git and Github.md",
     "0. A L X resources/git and github/Git command.md",
     "4. SQL Storage/No - SQL/No - SQL.md",
@@ -176,7 +178,6 @@
     "10. Front End/Framework/0. Frame Works.md",
     "10. Front End/2. CSS/0. Basics.md",
     "10. Front End/1. HTML/0. Start html.md",
-    "10. Front End/Framework",
     "9. Redis/Screenshot 2024-05-02 212844.png",
     "9. Redis/1. Commands.md",
     "9. Redis/0. Redis (data structure server).md",
@@ -184,7 +185,6 @@
     "7. JavaScript/TypeScript/2. Classes, Objects.md",
     "7. JavaScript/TypeScript/1. TS Arrays.md",
     "7. JavaScript/TypeScript/0. TS Introduction.md",
-    "7. JavaScript/NodeJs/what is npx.md",
-    "7. JavaScript/NodeJs/What is NPM.md"
+    "7. JavaScript/NodeJs/what is npx.md"
   ]
 }
