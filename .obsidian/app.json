@@ -3,5 +3,9 @@
   "readableLineLength": false,
   "strictLineBreaks": false,
   "showLineNumber": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "newFileLocation": "root",
+  "newFileFolderPath": "asserts",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "asserts"
 }
