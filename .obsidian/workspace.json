@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "cec4ee8aa6969b96",
+        "id": "7ceb57b894e48f99",
         "type": "tabs",
         "children": [
           {
-            "id": "5821497a19622553",
+            "id": "aced6d7fa52db33d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0x11 JAVA/0x00-basic-java.md",
+                "file": "Devops/Fabric/Script fabric in python.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Script fabric in python"
             }
           }
         ]
@@ -38,8 +40,10 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
-              }
+                "sortOrder": "byCreatedTime"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -54,7 +58,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,15 +68,16 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 212.5,
-    "collapsed": true
+    "width": 311.5110321044922
   },
   "right": {
     "id": "5e353d1015a4f534",
@@ -86,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0x11 JAVA/0x00-basic-java.md",
+                "file": "FrondEnd/HTML/Nested layout Technique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Nested layout Technique"
             }
           },
           {
@@ -103,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0x11 JAVA/0x00-basic-java.md",
+                "file": "FrondEnd/HTML/Nested layout Technique.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Nested layout Technique"
             }
           },
           {
@@ -117,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -126,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0x11 JAVA/0x00-basic-java.md"
-              }
+                "file": "FrondEnd/HTML/Nested layout Technique.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Nested layout Technique"
             }
           }
         ]
@@ -147,54 +162,54 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "5821497a19622553",
+  "active": "aced6d7fa52db33d",
   "lastOpenFiles": [
+    "FrondEnd/HTML/Nested layout Technique.md",
+    "FrondEnd/HTML/Box Models.md",
+    "FrondEnd/HTML/image picture.md",
+    "asserts/Screenshot 2024-12-12 130756.png",
+    "asserts/Pasted image 20241212130702.png",
+    "asserts/Pasted image 20241212130539.png",
+    "FrondEnd/HTML/Elements/Pasted image 20240812132921.jpg",
+    "FrondEnd/HTML/0x00-introduction to HTML5.md",
+    "Networking/firewall/iptables.md",
+    "Networking/firewall/ufw.md",
+    "Networking/firewall/What's firewall.md",
+    "Networking/WebAppServer/SSL/Create SSL certificate.md",
+    "Networking/firewall",
+    "Devops/Fabric/Script fabric in python.md",
+    "Networking/WebAppServer/SSL",
+    "Devops/Fabric/command Line.md",
+    "Devops/Fabric/what's fabric.md",
+    "Networking/WebAppServer/HAProxy/documents.md",
+    "Devops/Fabric",
+    "Networking/WebAppServer/HAProxy/command.md",
+    "Networking/WebAppServer/HAProxy/main config.md",
+    "Networking/WebAppServer/HAProxy/installation.md",
+    "Networking/WebAppServer/HAProxy/introduction.md",
+    "Networking/WebAppServer/NGINX/command.md",
+    "Networking/WebAppServer/HAProxy",
+    "Networking/WebAppServer/NGINX/main Config.md",
+    "Networking/WebAppServer/NGINX/Nginx Directory.md",
+    "Networking/WebAppServer/NGINX/Installation NGINX.md",
+    "Networking/WebAppServer/NGINX/Introduction.md",
+    "To Start a New Project/W6 Project Landing Page.md",
+    "Networking/WebAppServer/NGINX",
+    "To Start a New Project/W5 MVP Complete.md",
+    "To Start a New Project/W4 starting project..md",
+    "To Start a New Project/W3 Trello.md",
+    "To Start a New Project/W2 Research & Project 2 MVP.md",
+    "To Start a New Project",
+    "Language Programming/C/Data Structure",
+    "Networking/WebAppServer",
+    "Networking",
+    "Linux/BASH",
+    "asserts/Screenshot 2024-05-02 212844.png",
+    "asserts/Pasted image 20240812141818.jpg",
     "asserts/Screenshot 2024-09-10 203026.png",
-    "0x04-JavaScript/TypeScript/0. TS Introduction.md",
-    "0x11 JAVA/0x00-basic-java.md",
-    "0x11 JAVA",
-    "0x04-JavaScript/TypeScript/1. TS Arrays.md",
-    "0x04-JavaScript/TypeScript/4. Functions.md",
-    "0x04-JavaScript/TypeScript/2. Classes, Objects.md",
-    "0x09-FrondEnd/0-HTML/video audio.md",
-    "0x09-FrondEnd/0-HTML/image picture.md",
-    "0x09-FrondEnd/0-HTML/details.md",
-    "0x09-FrondEnd/0-HTML/Tables.md",
-    "0x09-FrondEnd/0-HTML/Text Typography.md",
-    "0x09-FrondEnd/0-HTML/HTML5.md",
-    "0x09-FrondEnd/0-HTML/0x00-introduction to HTML5.md",
-    "0x09-FrondEnd/0-HTML/0x02-head Tag.md",
-    "0x09-FrondEnd/0-HTML/0x01-html Tag.md",
     "asserts/Pasted image 20240812142912.jpg",
     "asserts/Pasted image 20240812142731.jpg",
     "asserts/Pasted image 20240812142622.jpg",
-    "asserts/Pasted image 20240812142559.jpg",
-    "asserts/Pasted image 20240812142447.jpg",
-    "asserts/Pasted image 20240812141818.jpg",
-    "0x09-FrondEnd/0-HTML/Elements/9x00-footer.md",
-    "0x09-FrondEnd/0-HTML/Elements/0x01-main.md",
-    "0x09-FrondEnd/0-HTML/Elements/0x00-header.md",
-    "0x09-FrondEnd/0-HTML/Elements/Pasted image 20240812134527.jpg",
-    "0x09-FrondEnd/0-HTML/Elements/Pasted image 20240812134259.jpg",
-    "0x09-FrondEnd/0-HTML/Elements",
-    "Pasted image 20240812133235.jpg",
-    "Pasted image 20240812133050.jpg",
-    "asserts",
-    "0x09-FrondEnd/1-CSS/1-box_model.md",
-    "0x09-FrondEnd/1-CSS/Display.md",
-    "0x09-FrondEnd/1-CSS/Table-style.md",
-    "0x09-FrondEnd/1-CSS/0-Introduction.md",
-    "0x09-FrondEnd/1-CSS/1-Text style.md",
-    "0x09-FrondEnd/2-Framework/0. Frame Works.md",
-    "Untitled.canvas",
-    "2024-08-06.md",
-    "3.md",
-    "git_auto_push.bat.txt",
-    "New Text Document.txt",
-    "Project/Bio Morocco",
-    "Project",
-    "0x10-Docker_docker-compose/Docker compose",
-    "0x10-Docker_docker-compose/Docker",
-    "0x10-Docker_docker-compose"
+    "Untitled.canvas"
   ]
 }
