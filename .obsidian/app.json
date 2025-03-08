@@ -2,5 +2,12 @@
   "focusNewTab": true,
   "readableLineLength": false,
   "strictLineBreaks": false,
-  "showLineNumber": true
+  "showLineNumber": false,
+  "promptDelete": false,
+  "newFileLocation": "root",
+  "newFileFolderPath": "asserts",
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "asserts",
+  "alwaysUpdateLinks": true,
+  "vimMode": false
 }
