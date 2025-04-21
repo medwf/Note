@@ -2,7 +2,7 @@
 /etc/nginx/
 ├── conf.d
 ├── fastcgi.conf
-├── fastcgi_params
+├── **fastcgi_params******
 ├── koi-utf
 ├── koi-win
 ├── mime.types
@@ -14,7 +14,7 @@
  │   ├── 50-mod-mail.conf -> /usr/share/nginx/modules-available/mod-mail.conf
  │   ├── 50-mod-stream.conf -> /usr/share/nginx/modules-available/mod-stream.conf
  │    └── 70-mod-stream-geoip2.conf -> /usr/share/nginx/modules-available/mod-stream-geoip2.conf
-├── nginx.conf
+├── nginx.conf # global config
 ├── proxy_params
 ├── scgi_params
 ├── sites-available

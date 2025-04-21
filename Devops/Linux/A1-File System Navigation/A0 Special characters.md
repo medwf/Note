@@ -1,5 +1,5 @@
 # Special characters
-- " " : _Whitespace_ ; special character save `$\`
+- ` `  : _Whitespace_ ; special character save `$\`
 - $ : _Expansion_ : parameter expansion (e.g. $var or ${var}) 
         command substitution (e.g. $(command))
          arithmetic expansion (e.g. $((expression)))

@@ -36,5 +36,5 @@ But you can do much more with regular expressions. In a text editor like [EditP
 ### options:
  i   : case insensitive
 m  : make dot match newlines
-x   : ignore whitespace in regex
+x   : ignore white-space in regex
 o   :  perform #{...} substitutions only once

@@ -42,3 +42,6 @@ phpinfo();
 
 ```
 #### using nginx.
+``` shell
+
+```

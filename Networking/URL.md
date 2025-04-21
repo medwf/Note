@@ -23,13 +23,8 @@ Here's an example of a URL:
 ```
 
 - Scheme: `https://`
-
 - Host: `www.example.com`
-
 - Port: `:8080` (optional)
-
 - Path: `/path/to/resource`
-
 - Query parameters: `?param1=value1&param2=value2`
-
 - Fragment: `#section1`

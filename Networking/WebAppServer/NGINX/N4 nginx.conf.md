@@ -40,7 +40,7 @@ proxy_pass [http://nameofbackendserver/](http://nameofbackendserver/); # I named
 
 # we use it by typing:
 
-include /etc/nginx/sites-enabled/* or /etc/nginx/sites-available/*;
+include /etc/nginx/sites-enabled /* or /etc/nginx/sites-available/*;
 
 server {
 

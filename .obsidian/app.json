@@ -9,5 +9,6 @@
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "asserts",
   "alwaysUpdateLinks": true,
-  "vimMode": false
+  "vimMode": false,
+  "tabSize": 3
 }

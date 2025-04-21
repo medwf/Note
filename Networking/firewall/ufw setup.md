@@ -60,4 +60,56 @@ sudo ufw status numbered # give number of the rule
 
 1. You can disable IPV6.
 
+
 It's important to note that `ufw` is available on many Debian-based Linux distributions, such as Ubuntu. While `ufw` provides a simplified interface, it's built on top of iptables, so it still leverages the underlying Linux Net filter framework for firewall functionality.
+
+---------------------------------------------------------
+
+That's great to hear you solved the React/Vite issue by identifying missing packages!
+
+Setting up UFW (Uncomplicated Firewall) to allow only SSH and Nginx traffic is a good security practice. Here's how you can do it:
+
+1. Install UFW if it's not already installed:
+
+```bash
+sudo apt update
+sudo apt install ufw
+```
+
+2. Set the default policies to deny all incoming connections and allow all outgoing:
+
+```bash
+sudo ufw default deny incoming
+sudo ufw default allow outgoing
+```
+
+3. Allow SSH connections (port 22) to prevent getting locked out:
+
+```bash
+sudo ufw allow ssh
+# Or alternatively: sudo ufw allow 22/tcp
+```
+
+4. Allow Nginx HTTP and HTTPS traffic:
+
+```bash
+sudo ufw allow 'Nginx Full'
+# This allows both port 80 (HTTP) and 443 (HTTPS)
+# Or alternatively:
+# sudo ufw allow 80/tcp
+# sudo ufw allow 443/tcp
+```
+
+5. Enable the firewall:
+
+```bash
+sudo ufw enable
+```
+
+6. Verify the rules are properly set:
+
+```bash
+sudo ufw status verbose
+```
+
+You should now have a firewall that blocks all incoming traffic except for SSH and Nginx. Make sure SSH is working correctly before you disconnect, or you might lock yourself out of the server.
