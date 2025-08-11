@@ -3,7 +3,7 @@
 - sudo apt-get update -y
 -  sudo apt-get install certbot
 - certbot --version
-- sudo certbot certonly --standalone -d [www.okinnovator.tech](http://www.okinnovator.tech)
+- `sudo certbot certonly --standalone -d www.okinnovator.tech`
 
 - Add your email address
 - Agree
@@ -29,3 +29,6 @@
 -  sudo chmod -R go-rwx /etc/haproxy/certs # delete rwx from group and owner.
 
 - DOMAIN='www.workhubconnect.me' sudo -E bash -c 'cat /etc/letsencrypt/live/$DOMAIN/fullchain.pem /etc/letsencrypt/live/$DOMAIN/privkey.pem > /etc/haproxy/certs/$DOMAIN.pem'
+
+ # with nginx 
+ - `sudo certbot --nginx -d example.com -d www.example.com` 

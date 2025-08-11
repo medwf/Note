@@ -8,7 +8,7 @@ npm i -D prisma
 npx prisma init
 ```
 
-# Configure connexion
+# Configure connection
 2. open file `schema.prisma` : 
 ``` ts
 

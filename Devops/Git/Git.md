@@ -87,3 +87,8 @@
         - ignore all file ended by .log  but don't ignore vip.log
 		- git ignore patterns search for it
 
+# remote 
+- to see remote fetch and push: 
+	- `git remote -v`
+- to change remote :
+	- `git remote set-url origin https://... ` 

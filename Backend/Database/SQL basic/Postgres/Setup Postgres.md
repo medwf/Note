@@ -10,3 +10,5 @@ psql # for postres
 -h # hostname
 -d # database
 ```
+
+# show

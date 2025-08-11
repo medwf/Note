@@ -13,3 +13,4 @@ Returning Responses: Gunicorn takes the response from the Python application and
 Gunicorn is designed to be lightweight, efficient, and easy to use. It supports multiple worker processes to handle concurrent requests, ensuring good performance for web applications with high traffic. Additionally, it integrates well with popular Python web frameworks and deployment scenarios.
 
 One of the common deployment setups is to use Gunicorn behind a reverse proxy server like Nginx or Apache. The reverse proxy server handles tasks such as serving static files, SSL termination, and load balancing, while Gunicorn focuses on running the Python web application and handling dynamic content generation. This setup provides improved security, scalability, and performance for web applications.
+- `uv run gunicorn wsgi:app --bind 0.0.0.0:8000`

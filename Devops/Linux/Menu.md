@@ -74,7 +74,6 @@ Here’s a schema for a **Unix-like Mind Map** that organizes the core component
     - Redirection and Pipes (`>`, `<`, `|`)
 
 ---
-
 ### **5. Networking**
 
 - **Concepts**

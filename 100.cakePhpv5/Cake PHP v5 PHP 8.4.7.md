@@ -58,7 +58,9 @@ bin/cake bake migration CreateArticles user_id:integer title:string slug:string[
 bin/cake bake migration CreateTags title:string[191]:unique created modified
 bin/cake bake migration CreateArticlesTags article_id:integer:primary tag_id:integer:primary created modified
 ```
-
+- `bake migration` 
+	- `<name class migration>` : generate change methods to migrate.
+- `migrations migrate` : migrate all change. 
 # Generating `baking our backend`
 - `bake` generate baking our back-end.
 	- `bin/cake bake all` : showing  all existing tables.
