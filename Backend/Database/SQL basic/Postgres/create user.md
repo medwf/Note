@@ -58,3 +58,23 @@ ALTER DEFAULT PRIVILEGES IN SCHEMA public GRANT ALL ON SEQUENCES TO myuser;
 Now `myuser` has full access to `mydatabase` (but not to other databases).
 
 Let me know if you want this user to also create new databases or be a superuser.
+
+``` sql
+-- Replace with your desired username, password, and database name
+
+CREATE USER userpg WITH PASSWORD 'pgAdmin';
+
+  
+
+CREATE DATABASE mydatabase OWNER userpg;
+
+  
+
+GRANT ALL PRIVILEGES ON DATABASE mydatabase TO userpg;
+
+  
+
+-- Optional: make the user a superuser
+
+ALTER USER userpg WITH SUPERUSER;
+```
