@@ -48,9 +48,7 @@ Let's dive into the key differences between MySQL and PostgreSQL, as well as the
   CREATE TABLE tablename (
 
       id INT AUTO_INCREMENT PRIMARY KEY,
-
       name VARCHAR(100)
-
   );
 
   ```

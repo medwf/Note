@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "0269bbd9d0b25ccf",
+        "id": "af1fee52640b1367",
         "type": "tabs",
         "children": [
           {
-            "id": "e1d05eb8874df593",
+            "id": "666a1396d4954b10",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Devops/Linux/Menu.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Menu"
+              "title": "New tab"
             }
           }
         ]
@@ -74,8 +70,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -95,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "FrondEnd/HTML/Nested layout Technique.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Nested layout Technique"
+              "title": "Backlinks"
             }
           },
           {
@@ -158,56 +152,57 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-file",
-              "title": "Plugin no longer active"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e1d05eb8874df593",
+  "active": "05815d1320c8b254",
   "lastOpenFiles": [
+    "Untitled.base",
+    "Devops/Git/Git.md",
+    "Learning Track.md",
+    "1. DevOps.md",
+    "odoo.md",
+    "pdf.md",
+    "Node.js Package Managers.md",
+    "Project/smart.md",
+    "Devops/Linux/Menu.md",
+    "Devops/Linux/A4-Services Managements/A0 systemctl.md",
+    "Devops/Linux/A4-Services Managements/A0 Gestion Services.md",
+    "Devops/Linux/A1-File System Navigation/A2 File Types.md",
+    "Devops/Linux/A1-File System Navigation/A1 Directory Structure.md",
+    "Devops/Linux/A1-File System Navigation/A0 Special characters.md",
+    "Devops/Linux/A0-Unix Basics/A1 SHELL.md",
+    "Devops/Linux/A0-Unix Basics/A0 Kernel.md",
+    "Backend/Database/PL-SQL/intro.md",
+    "Project/erp/architecture.md",
+    "Project/erp/erp next.md",
+    "Backend/Database/SQL basic/MySQL, Postgres.md",
+    "Backend/Database/SQL basic/MySQL/mariadb.md",
     "Backend/Database/SQL basic/MySQL/MySQL dump..md",
     "Backend/Database/SQL basic/MySQL/Config PATH.md",
+    "Project/users UML.md",
+    "Project/erp",
+    "Devops/ansible/1. ansible.md",
     "Backend/Database/SQL basic/Postgres/create user.md",
-    "Devops/Docker compose/2. command line.md",
-    "Devops/Docker/1. What is docker.md",
-    "Node.js Package Managers.md",
-    "1. DevOps.md",
-    "Networking/HTTP.md",
-    "Networking/WebAppServer/HAProxy/documents.md",
-    "Networking/WebAppServer/HAProxy/command.md",
-    "Networking/firewall/ufw setup.md",
-    "Networking/firewall/What s firewall.md",
-    "Networking/firewall/ufw set.md",
-    "Devops/Linux/Menu.md",
-    "Networking/WebAppServer/Gunicorn.md",
-    "iktron blogs.md",
-    "Networking/WebAppServer/SSL/Create SSL certificate.md",
-    "Devops/Git/Git.md",
-    "Networking/WebAppServer/NGINX/N4 nginx.conf.md",
-    "Networking/Domain Name.md",
-    "Devops/Regular Expression (regex).md",
-    "Devops/Fabric/command Line.md",
-    "pdf.md",
-    "problem - learning track.md",
-    "Backend/NestJs/A0 StartUp NestJs.md",
-    "Backend/NestJs/A0 Controller.md",
     "Devops/ansible",
     "Devops/Linux/A8-Security Best Practices",
     "Devops/Linux/A0-Unix Basics",
@@ -217,7 +212,6 @@
     "Devops/Linux/A4-Services Managements",
     "Devops/Linux",
     "Project",
-    "FrondEnd/Angular",
     "Untitled 1.canvas",
     "Untitled.canvas",
     "asserts/Screenshot 2024-12-12 130756.png",
